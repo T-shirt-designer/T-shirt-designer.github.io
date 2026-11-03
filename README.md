@@ -10,6 +10,7 @@ Create and customize front-and-back T-shirt mockups in your browser. Add artwork
 - Preview the front and back of a shirt and customize shirt colors.
 - Optionally add double sleeve stripes, with preset or custom colors.
 - Add, upload, move, resize, and rotate artwork layers on either side.
+- Add text layers with selectable fonts, color, bold, and italic styling.
 - Try the built-in Alumni Texas artwork and sample front/back test images.
 - Use a custom shirt photo for each side.
 - Download a front PNG, back PNG, or combined front-and-back PNG.
